@@ -1,0 +1,21 @@
+{
+  "name": "max_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joej326/node-no-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joej326/node-no-express/issues"
+  },
+  "homepage": "https://github.com/joej326/node-no-express#readme"
+}
